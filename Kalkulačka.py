@@ -15,7 +15,7 @@ while True:
         print(cislo1 / cislo2)
     elif operace == "**":
         print(cislo1 ** cislo2)
-    elif operace == "//"
+    elif operace == "//":
         print(cislo1 // cislo2)
     elif operace == "konec":
         print("Děkujeme za využití programu kalkulačka.")
